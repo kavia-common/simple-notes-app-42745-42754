@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-notes-app-42745-42754/note_taking_frontend"
+}
